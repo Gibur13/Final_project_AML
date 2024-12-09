@@ -1,0 +1,5 @@
+Target,Model,Best Params,Train Accuracy,Train F1 Score,Validation Accuracy,Validation F1 Score,Best CV Accuracy
+O3 Mean_t_change,MLP with Dropout,"{'lr': 0.001, 'module__dropout_rate': 0.3, 'module__hidden_layer_sizes': (50,)}",0.0864411679676207,0.013755140618583604,0.1136986301369863,0.0232152184535544,0.08644116796762069
+CO Mean_t_change,MLP with Dropout,"{'lr': 0.001, 'module__dropout_rate': 0.3, 'module__hidden_layer_sizes': (50,)}",0.09525874530211044,0.01657001798972965,0.07808219178082192,0.011310508085150823,0.09525874530211044
+SO2 Mean_t_change,MLP with Dropout,"{'lr': 0.001, 'module__dropout_rate': 0.3, 'module__hidden_layer_sizes': (50,)}",0.07559988435964152,0.01062726502354321,0.09041095890410959,0.01499277207957596,0.0755998843596415
+NO2 Mean_t_change,MLP with Dropout,"{'lr': 0.001, 'module__dropout_rate': 0.3, 'module__hidden_layer_sizes': (50,)}",0.09496964440589765,0.01647394227714185,0.07808219178082192,0.011310508085150823,0.09496964440589765

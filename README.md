@@ -5,7 +5,7 @@ This project aims to develop a predictive model for urban air quality, focusing 
 
 ## Team Members
 - Bora Bulut  
-- Yuval Steimberg  
+- Yuval Steimberg  (ys2335)
 - Aashish Khubchandani (akk223)
 
 ## Objective

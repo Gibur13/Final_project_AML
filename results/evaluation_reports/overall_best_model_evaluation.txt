@@ -1,0 +1,4 @@
+Overall Best Model: Logistic Regression (L1)
+Target: SO2 Mean_t_change
+Best Parameters: {'C': 1, 'penalty': 'l1'}
+Validation Accuracy: 0.42

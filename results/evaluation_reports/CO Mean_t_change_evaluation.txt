@@ -1,0 +1,23 @@
+The best model is: Logistic Regression (L1)
+Best parameters: {'C': 1, 'penalty': 'l1'}
+Validation Accuracy: 0.25
+
+Testing Results:
+  Testing Accuracy: 0.24
+  Testing F1 Score: 0.17
+
+Classification Report:
+              precision    recall  f1-score   support
+
+ (-20%,-10%]       0.20      0.01      0.01       144
+ (-30%,-20%]       0.00      0.00      0.00        82
+ (-inf,-30%]       0.40      0.38      0.39       122
+    (0%,10%]       0.15      0.23      0.18       115
+    (10%,0%]       0.16      0.23      0.19       148
+   (10%,20%]       0.00      0.00      0.00       105
+   (20%,30%]       1.00      0.00      0.00        83
+   (30%,inf]       0.28      0.74      0.41       174
+
+    accuracy                           0.24       973
+   macro avg       0.27      0.20      0.15       973
+weighted avg       0.26      0.24      0.17       973
